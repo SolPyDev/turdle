@@ -9,6 +9,22 @@ Starting the game:
 2. Start game -> run command "python3 main.py"
 3. Follow on screen instructions...
 
+How to Play:
 
+    -------------------------------------------------------------------------------------------------------------
+    Your objective is to guess the secret 5-letter word.
+
+    If your guess is incorrect you will receive clues to help you with your next guess.
+
+    Example Guess: ample
+
+    Secret Word: plate
+
+    Example Output:     a|m|p|l|e
+    
+     Green = correct letter and location
+     Yellow = correct letter, wrong location
+     Red = letter does not exist in secret word
+    -------------------------------------------------------------------------------------------------------------
 
 
